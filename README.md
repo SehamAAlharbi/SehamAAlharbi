@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SehamAAlharbi
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning mining software repositories
-- 📫 You can reach me via E.mail seham.alharbi@yahoo.com
+- 📫 You can reach me via E.mail: seham.alharbi@yahoo.com
